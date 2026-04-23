@@ -11,6 +11,33 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge" />
 </p>
 
+
+---
+
+## 🔬 Published Research
+
+### [Automated Diabetic Retinopathy Detection Using Capsule Networks with Explainability](https://github.com/MVVasudevreddy/diabetic-retinopathy-capsnet-xai)
+
+[![Published](https://img.shields.io/badge/Published-IJSREM%20Vol.10%20Issue%2004%20April%202026-blue)](https://ijsrem.com)
+[![DOI](https://img.shields.io/badge/DOI-10.55041%2FIJSREM59866-green)](https://doi.org/10.55041/IJSREM59866)
+[![Impact Factor](https://img.shields.io/badge/Impact%20Factor-8.659-orange)](https://ijsrem.com)
+[![Accuracy](https://img.shields.io/badge/Accuracy-92%25-brightgreen)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/MVVasudevreddy/diabetic-retinopathy-capsnet-xai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-blue?logo=github)](https://mvvasudevreddy.github.io/diabetic-retinopathy-capsnet-xai/)
+
+**B.Tech Major Project** | Published in IJSREM Journal (April 2026)
+
+> A deep learning system achieving **92% accuracy** in detecting and classifying Diabetic Retinopathy from retinal images using Capsule Networks (CapsNet) integrated with Grad-CAM for explainability. Outperforms traditional CNN models while using **6x fewer parameters**.
+
+**Key Highlights:**
+- 🎯 **92% Accuracy** | 89% Precision | 88% Recall | 88.5% F1-Score
+- 🧠 **Capsule Networks (CapsNet)** - Preserves spatial hierarchies for detecting microaneurysms
+- 🔍 **Explainable AI (Grad-CAM)** - Visual heatmaps for clinical validation
+- ⚡ **Efficient** - 4.3M parameters vs ResNet-50's 25.6M (6x fewer)
+- 📄 **Published Research** - IJSREM Journal | Impact Factor: 8.659
+- 🌐 **Live Portfolio** - [View Project Site](https://mvvasudevreddy.github.io/diabetic-retinopathy-capsnet-xai/)
+
+**Tech Stack:** Python | TensorFlow | Keras | OpenCV | Grad-CAM | Albumentations | APTOS 2019 Dataset
 ---
 
 ## 👨‍💻 About Me
