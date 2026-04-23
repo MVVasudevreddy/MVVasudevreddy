@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Python Developer | SQL & Database Specialist | NLP & Deep Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Final-Year+B.Tech+CSE+Graduate;AI+%26+ML+Engineer;Python+%7C+SQL+%7C+Deep+Learning;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Graduate;AI+%26+ML+Engineer;Python+%7C+SQL+%7C+Deep+Learning;Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
